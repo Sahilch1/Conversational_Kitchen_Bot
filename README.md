@@ -21,7 +21,11 @@ Conversational Kitchen Bot is an intelligent assistant that makes cooking intera
 ## 📂 Project Structure
 
 ConversationalKitchenBot/
+
 │-- data/ # Dataset or training files
+
 │-- src/ # Source code
+
 │-- requirements.txt # Dependencies
+
 │-- README.md # Project documentation
